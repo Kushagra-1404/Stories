@@ -1,0 +1,9 @@
+
+.app {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  font-family: Arial, sans-serif;
+  align-items: center;
+  padding: 20px;
+}
